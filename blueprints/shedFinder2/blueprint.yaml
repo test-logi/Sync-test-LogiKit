@@ -1,0 +1,18 @@
+---
+blueprints:
+- variableName: shedFinder2
+  relatedFields: null
+  lastModifiedBy: ac5be312-e0c9-4cd7-90e5-056e2c948434-user
+  name: Shed Finder2
+  description: Pre-Quiz Shed Configuration
+  relatedSets: null
+  scripts: null
+  layouts: null
+  products: null
+productPickers: null
+sets: null
+fieldOptions: null
+libraryFunctions: null
+rules: null
+fields: null
+dynamicOptionFilters: null
