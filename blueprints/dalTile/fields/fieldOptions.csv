@@ -1,0 +1,4 @@
+variableName,name,value,defaultValue,description,imageUrl,optionGroup,order
+quantityType,Individual,Individual,false,,,,
+quantityType,Box of 10,Box of 10,false,,,,
+quantityType,Pallet,Pallet,false,,,,

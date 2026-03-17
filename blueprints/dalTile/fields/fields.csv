@@ -1,0 +1,6 @@
+field_type,name,variableName,required,description,selectType,minValue,maxValue,stepValue,defaultValue,unitLabel,minLength,maxLength,lastModifiedBy,picklistOptionType,quantitySelectionLinked,defaultType,defaultBomType,defaultParentProduct,defaultUom,defaultPricingProductSellingModelId,defaultPricingStartDate,defaultPricingEndDate,dataSource,tableName,labelColumn,valueColumn,orderColumn,descriptionColumn,imageUrlColumn,referenceFieldName
+PicklistField,Quantity Type,quantityType,false,,single,,,,,,,,ac5be312-e0c9-4cd7-90e5-056e2c948434-user,TEXT,,,,,,,,,STATIC,,,,,,,
+NumberField,Weight,weight,false,,,,,,16,Ounces,,,ac5be312-e0c9-4cd7-90e5-056e2c948434-user,,,,,,,,,,,,,,,,,
+NumberField,Price,price,false,,,,,,1.00,$,,,ac5be312-e0c9-4cd7-90e5-056e2c948434-user,,,,,,,,,,,,,,,,,
+NumberField,Width (IN),widthIN,false,,,,,,6,Inches,,,ac5be312-e0c9-4cd7-90e5-056e2c948434-user,,,,,,,,,,,,,,,,,
+NumberField,Height (IN),heightIN,false,,,,,,6,Inches,,,ac5be312-e0c9-4cd7-90e5-056e2c948434-user,,,,,,,,,,,,,,,,,
