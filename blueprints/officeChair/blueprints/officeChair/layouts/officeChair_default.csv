@@ -1,0 +1,10 @@
+type,path,override source label? (Y/N),label,variablename,Component display type,columnorder,classname,value,placeholder
+tierdef,/layout/tiers,,,,BasicContainer,,,,
+productlist,,,Sales BOM,salesBom,,,,"{""location"":""right"",""type"":""sales"",""hierarchyColumn"":""displayName""}",
+productlistcolumn,/salesBom/columns,,Product,displayName,,,,"{""width"":""40%""}",
+productlistcolumn,/salesBom/columns,,Qty,quantity,,,,"{""width"":""10%""}",
+productlistcolumn,/salesBom/columns,,Price,price,,,,"{""width"":""25%""}",
+productlistcolumn,/salesBom/columns,,Ext. Price,extPrice,,,,"{""width"":""25%""}",
+tier,/layout/tiers,,Heading 1,basiccontainer1,,,,,
+columnset,/layout/tiers/basiccontainer1,,,col1,,,,,
+field,/layout/tiers/basiccontainer1/col1,,Office Chair Lumbar Support,officeChairLumbarSupport,Picklist,,,,

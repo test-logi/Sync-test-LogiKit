@@ -1,0 +1,3 @@
+variableName,name,value,defaultValue,description,imageUrl,optionGroup,order
+officeChairLumbarSupport,No Lumbar Support,No Lumbar Support,true,No Lumbar Support,,,0
+officeChairLumbarSupport,Add Lumbar Support,Add Lumbar Support,false,Add Lumbar Support,,,1
