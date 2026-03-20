@@ -1,0 +1,23 @@
+---
+blueprints:
+- variableName: dalTile
+  relatedFields:
+  - quantityType
+  - widthIN
+  - heightIN
+  - price
+  - weight
+  lastModifiedBy: ac5be312-e0c9-4cd7-90e5-056e2c948434-user
+  name: Dal-Tile
+  description: Logik Demo
+  relatedSets: null
+  scripts: null
+  layouts: null
+  products: null
+productPickers: null
+sets: null
+fieldOptions: /fields/fieldOptions.csv
+libraryFunctions: null
+rules: null
+fields: /fields/fields.csv
+dynamicOptionFilters: null
